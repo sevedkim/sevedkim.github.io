@@ -10,4 +10,7 @@ Now pages [^1] are more stable than a twitter feed and less permanent than the a
 * Designing a tabletop party game
 * Distilling non-alcoholic makgeolli & soju
 
-[^1]: https://nownownow.com/about
+**October 2022**
+* Writing on vertically integrated, small-batch fashion brands to understand the end-to-end process & what tools are involved
+
+[^1]: <https://nownownow.com/about>
