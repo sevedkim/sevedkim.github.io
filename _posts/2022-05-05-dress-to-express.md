@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	Style Principle&#58; Dress to Express
+title:	"Style Principle: Dress to Express"
 date:	2022-05-05
 author:	Seve Kim
 description: Contrary to the expression "dress to impress", the act of dressing yourself is not about the external validation or acceptance from others.
