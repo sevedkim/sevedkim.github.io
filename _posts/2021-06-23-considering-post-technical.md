@@ -1,9 +1,9 @@
 ---
 layout: post
-title:	Considering Becoming Post-Technical? Why You Should Focus On Building Soft Skills
+title:	Considering Becoming Post-Technical?
 date:	2021-06-23
 author:	Seve Kim
-description: As an engineer or analyst, most of your world revolves around being given a problem to solve for.
+description: Considering Becoming Post-Technical? Why You Should Focus On Building Soft Skills
 ogimage: opengraphimage.jpeg
 
 ---
