@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-I'm Seve. What I'm doing [now](/now/).
+A little [about me](/about/). What I'm up to [now](/now/).
