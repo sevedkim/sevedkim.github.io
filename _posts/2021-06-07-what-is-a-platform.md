@@ -4,7 +4,7 @@ title:	What is a "Platform"?
 date:	2021-06-07
 author:	Seve Kim
 description: hashtag platform is an overloaded buzzword.
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

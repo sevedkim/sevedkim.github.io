@@ -4,7 +4,7 @@ title:	Considering Becoming Post-Technical?
 date:	2021-06-23
 author:	Seve Kim
 description: Considering Becoming Post-Technical? Why You Should Focus On Building Soft Skills
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

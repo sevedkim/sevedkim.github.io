@@ -4,7 +4,7 @@ title:	Plan For No Plans
 date:	2021-06-04
 author:	Seve Kim
 description: My entire month of May was jam-packed with housewarmings, picnics, dinner parties, and birthdays.
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

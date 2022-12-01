@@ -4,7 +4,7 @@ title:	How To Make More Space For Learning
 date:	2021-06-08
 author:	Seve Kim
 description: We all want to grow and learn more but sometimes making the room for it is challenging.
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

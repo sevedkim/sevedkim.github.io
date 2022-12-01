@@ -4,7 +4,7 @@ title:	3 Key Takeaways From Writing Every Day for 30 Days
 date:	2021-06-13
 author:	Seve Kim
 description: I hadn't realized until taking on this challenge that in order to start something, you have to actually start.
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

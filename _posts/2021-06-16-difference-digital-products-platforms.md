@@ -4,7 +4,7 @@ title:	What's the Difference Between Digital Products & Platforms?
 date:	2021-06-16
 author:	Seve Kim
 description: Just as we think differently of how we grow grapes and how we make wine, digital products and platforms yield value in different ways.
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

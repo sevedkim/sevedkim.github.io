@@ -4,7 +4,7 @@ title:	Less Consumption, More Creation
 date:	2021-04-22
 author:	Seve Kim
 description: I can only control the waves that I create. It is up to others to find my signal in the sea of noise.
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

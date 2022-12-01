@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-My name is Seve Kim. What I'm doing [now](/now/).
+I'm Seve. What I'm doing [now](/now/).

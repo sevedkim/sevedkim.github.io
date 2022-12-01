@@ -4,7 +4,7 @@ title:	How Might Shipping Atomic Products Grow PMs?
 date:	2021-06-09
 author:	Seve Kim
 description: We all want to grow and learn more but sometimes making the room for it is challenging.
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

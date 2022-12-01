@@ -4,7 +4,7 @@ title:	4 Steps For Finding Fulfilling Work in Tech
 date:	2021-06-11
 author:	Seve Kim
 description: How do you answer the question of "How's work going?"
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

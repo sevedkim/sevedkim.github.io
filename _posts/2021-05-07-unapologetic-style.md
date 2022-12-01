@@ -4,7 +4,7 @@ title:	Unapologetic Style
 date:	2021-05-07
 author:	Seve Kim
 description: "I spent so much of my life and career doing what other people wanted me to do or try to fit in a space... It's just so sick to be yourself."
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

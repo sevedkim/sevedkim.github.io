@@ -4,7 +4,7 @@ title:	"A Picture's Worth a 1,000 Docs: Why Drawing is Superior To Note-Taking"
 date:	2021-05-31
 author:	Seve Kim
 description: Documentation will be the death of me.
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

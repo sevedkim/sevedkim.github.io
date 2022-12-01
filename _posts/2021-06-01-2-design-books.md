@@ -4,7 +4,7 @@ title:	2 Design Books Every Human Must Read
 date:	2021-06-01
 author:	Seve Kim
 description: Recommending books to the human race is daunting, except for these two.
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

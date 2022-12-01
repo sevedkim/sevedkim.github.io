@@ -4,7 +4,7 @@ title:	How Rejection Can Accelerate Your Career Growth
 date:	2021-06-04
 author:	Seve Kim
 description: Rejection can feel like a failure, but it has some surprising benefits.
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 

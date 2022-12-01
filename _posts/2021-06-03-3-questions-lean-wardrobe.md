@@ -4,7 +4,7 @@ title:	3 Questions to Ask For a Lean Wardrobe
 date:	2021-06-03
 author:	Seve Kim
 description: I managed to survive the Memorial Day Weekend sales without buying anything.
-ogimage: opengraphimage.jpeg
+ogimage: opengraphimage.png
 
 ---
 
