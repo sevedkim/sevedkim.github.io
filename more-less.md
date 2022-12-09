@@ -3,8 +3,9 @@ layout: page
 title: Less/More Principles
 permalink: /less-more/
 ---
-In reflection of my actions, my More/Less Principles speak to areas I've identified to improve on. I've found them to be much easier to remember and live out when they're simplified into Less X, More Y statements.
+In reflection of my past actions, my Less/More Principles speak to areas I've identified to improve on. I've found them to be much easier to remember and live out when they're simplified into Less X, More Y statements.
 
+* Less waiting for help, More saving yourself
 * Less title-chasing, More craftwork
 * Less consumption, More creation
 * Less planned, More spontaneous
