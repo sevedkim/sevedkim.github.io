@@ -6,9 +6,7 @@ permalink: /now/
 Now pages [^1] are more stable than a twitter feed and less permanent than the about page. Life updates on a monthly rather than daily or hourly cadence.
 
 **December 2022**
-* Publishing a [fashion newsletter](https://twitter.com/UniformParadox). I'm not sure what the primary focus will be but will just start writing.
-* Learning to road run in New York winters.
-* Contributing to open-source
+* Building [make52](http://make52.com/)
 
 **November 2022**
 * Building an open-source web3 developer product
