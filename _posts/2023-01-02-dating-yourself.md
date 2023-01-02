@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	Dating Yourself
-date:	2022-12-26
+date:	2023-01-02
 author:	Seve Kim
 description: In the same ways that dating someone helps you get to know them, dating yourself can increase your self-awareness.
 ogimage: opengraphimage.png
