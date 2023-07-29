@@ -4,7 +4,7 @@ pubDate:	2023-07-29
 description: My Personal Manifesto
 ---
 **Be kind**
-People remember how you make them feel. Whether a grand or trivial gesture, kindness always improves the outcome. 
+People remember how you made them feel. Whether a grand or trivial gesture, kindness always improves the outcome. 
 
 **Be present**
 Ground your mind and body into this very moment. Energy and time is wasted unless it's fully focused into what's happening right now.
