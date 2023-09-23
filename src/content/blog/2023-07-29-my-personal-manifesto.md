@@ -30,3 +30,6 @@ If you don't set clear boundaries or thresholds, someone else will set them for 
 
 **Success favors consistency**
 Small behaviors invested thousands of times results in unimaginable return.
+
+**Fly your own flag**
+Thinking critically for yourself will sometimes yield a contrarian, non-conforming perspective. It is better to be against the current and free than a blind sheep following the crowd.
