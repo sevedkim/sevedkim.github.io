@@ -1,0 +1,38 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
+import { getCollection } from 'astro:content';
+import FormattedDate from '../../components/FormattedDate.astro';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
+);
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<br><br><br>
+			I'm Seve. Currently, I'm a Product Manager at Spotify. Previously I've worked at Unstoppable Domains, Wikimedia Foundation, and ThoughtWorks. A few links to explore:
+      <ul>
+        <li><a href="/">Writing</a>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/now">What I'm doing now</a></li>
+      </ul>
+      Other ways to follow me: <br>
+      <ul>
+        <li>LinkedIn: <a href="https://linkedin.com/in/sevedkim">Seve Kim</a>
+        <li>Farcaster: <a href="https://warpcast.com/seve">@seve</a>
+        <li>Twitter: <a href="https://linkedin.com/in/sevedkim">@sevedkim</a>
+      </ul>
+		</main>
+		<Footer />
+	</body>
+</html>

@@ -1,7 +1,7 @@
 ---
-title:	"Grape Growing: Applying product-thinking to digital platforms"
+title:	"Grape Growing"
 pubDate:	2020-04-30
-description: I can only control the waves that I create. It is up to others to find my signal in the sea of noise.
+description: Applying product-thinking to digital platforms
 ---
 
 _Originally published on the [ThoughtWorks Insight Blog](https://www.thoughtworks.com/insights/blog/grape-growing-applying-product-thinking-digital-platforms)_

@@ -1,0 +1,41 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
+import { getCollection } from 'astro:content';
+import FormattedDate from '../../components/FormattedDate.astro';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
+);
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<br><br><br>
+			<b>What I'm doing now</b> 
+			<br>
+			→ Designing better software ownership tools
+			<br>
+			→ Training for the 2024 New York Marathon
+			<br>
+			→ Practicing storytelling in product strategy
+			<br><br>
+			<b><center>.  .  .</center></b>
+			<br>
+			<b>Previously</b> 
+			<br>
+			See <a href="/projects">Projects</a> for a full list of past projects.
+			<br>
+			<p class="muted small">Last updated October 2023</p>
+		</main>
+		<Footer />
+	</body>
+</html>

@@ -1,7 +1,7 @@
 ---
-title:	"A Picture's Worth a 1,000 Docs: Why Drawing is Superior To Note-Taking"
+title:	"A Picture's Worth a 1,000 Docs"
 pubDate:	2021-05-31
-description: Documentation will be the death of me.
+description: Why Drawing is Superior To Note-Taking
 ---
 
 Documentation will be the death of me.

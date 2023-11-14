@@ -4,10 +4,12 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import { getCollection } from 'astro:content';
+import FormattedDate from '../components/FormattedDate.astro';
 
 const posts = (await getCollection('blog')).sort(
-	(a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
+const { pubDate } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -18,16 +20,19 @@ const posts = (await getCollection('blog')).sort(
 	<body>
 		<Header title={SITE_TITLE} />
 		<main>
-			<br><br><br>
-			<b>Currently</b> 
 			<br>
-			→ Designing for better software ownership at <a href="https://backstage.io/">Spotify for Backstage</a>
-			<br>
-			→ Training for the 2024 New York Marathon </a>
-			<br>
-			→ Practicing storytelling in product strategy </a>
-			<br>
-			<p class="muted small">Last updated October 2023</p>
+			<b>Posts</b>
+				<section>
+				<ul>
+					{
+						posts.map((post) => (
+							<li>
+								<a class="post-link" href={`/posts/${post.slug}/`}>{post.data.title}</a>
+							</li>
+						))
+					}
+				</ul>
+			</section>
 		</main>
 		<Footer />
 	</body>
