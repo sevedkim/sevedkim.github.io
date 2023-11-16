@@ -14,3 +14,4 @@ A list of my favorite books that have inspired me and shape the way I think
 - ["Why We Sleep"](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144316) by Matthew Walker
 - ["Service Design"](https://www.amazon.com/Good-Services-Decoding-Mystery-Service/dp/9063695438) by Lou Downe
 - ["Ametora: How Japan Saved American Style"](https://www.amazon.com/gp/product/B012271ONK?caller=Goodreads) by W. David Marx
+- ["The Almanack of Naval Ravikant"](https://www.amazon.com/Almanack-Naval-Ravikant-Wealth-Happiness-ebook/dp/B08FF8MTM6) by Eric Jorgenson
